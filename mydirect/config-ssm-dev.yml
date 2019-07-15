@@ -11,4 +11,4 @@ spring:
 mybatis:
   type-aliases-package: com.qf.j1902.pojo
   mapper-locations: mapping/*.xml
-myname: dubitian 
+myname: dubitian123
